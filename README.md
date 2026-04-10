@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ali Muddassar
 
-<!--
-**Ali-Muddassar/Ali-Muddassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CS Student | Aspiring Data Analyst | Python Learner
 
-Here are some ideas to get you started:
+🐍 Currently leveling up in Data Science with **@Codanics**  
+📍 Based in Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Currently Working With:
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Jupyter Notebook`
+
+### 📫 Connect With Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-muddassar-17466a3b7)
+- 🐙 [GitHub](https://github.com/Ali-Muddassar)
