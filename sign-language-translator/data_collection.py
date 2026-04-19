@@ -12,8 +12,8 @@ Controls:
 
 Output:
     data/
-      A/  (100 images)
-      B/  (100 images)
+      A/  (300 images)
+      B/  (300 images)
       ...
 """
 
@@ -23,7 +23,7 @@ import mediapipe as mp
 
 # ── Configuration ────────────────────────────────────────────────────────────
 CLASSES        = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ") + ["SPACE", "DEL", "NOTHING"]
-IMAGES_PER_CLASS = 100
+IMAGES_PER_CLASS = 300
 DATA_DIR       = os.path.join(os.path.dirname(__file__), "data")
 # ─────────────────────────────────────────────────────────────────────────────
 
